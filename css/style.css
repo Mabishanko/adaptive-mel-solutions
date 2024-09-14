@@ -623,6 +623,7 @@ a:focus {
 
 .about_section .img-box img {
   width: 95%;
+
 }
 
 .about_section .detail-box p {
@@ -807,7 +808,7 @@ a:focus {
 }
 
 .client_section .client_container .img-box img {
-  width: 100%;
+  width: 75%;
   border-radius: 5px;
 }
 
@@ -833,12 +834,12 @@ a:focus {
 
 .client_section .carousel-control-prev,
 .client_section .carousel-control-next {
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   border-radius: 0px;
   background-color: #000000;
   opacity: 1;
-  top: 28%;
+  top: 42%;
   color: #ffffff;
   font-size: 12px;
   margin: 0 2.5px;
